@@ -18,7 +18,7 @@
 
 ## 🚀 How to Use
 
-1. **Download and extract** the latest release (`Wiki Tazeh.exe`) from the [Releases](../../releases) section.
+1. **Download and extract** the latest release (`Wiki Tazeh.exe`) from the [Releases](https://github.com/payam-avarwand/Wiki-Tazeh/releases/tag/Persian_Wikipedia) section.
 2. **Double-click** the executable to launch the application.
 3. **Enter date range** in `YYYY-MM-DD` format and click **جستجو** (Search).
 4. **Use filters** to search by article creator or title.
